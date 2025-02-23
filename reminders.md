@@ -4,3 +4,6 @@
 CREATE ROLE amukam WITH LOGIN PASSWORD 'loc';
 psql -U amukam -d locsafedb`
 
+\l
+
+\dt
